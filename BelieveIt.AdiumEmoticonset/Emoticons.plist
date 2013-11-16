@@ -15,6 +15,15 @@
 			<key>Name</key>
 			<string>Bitch What</string>
 		</dict>
+		<key>damn.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react damn</string>
+			</array>
+			<key>Name</key>
+			<string>Damn</string>
+		</dict>
 		<key>dayum.gif</key>
 		<dict>
 			<key>Equivalents</key>
