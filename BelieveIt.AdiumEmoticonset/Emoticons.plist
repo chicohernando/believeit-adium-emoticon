@@ -51,6 +51,15 @@
 			<key>Name</key>
 			<string>Nod</string>
 		</dict>
+		<key>notime.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react notime</string>
+			</array>
+			<key>Name</key>
+			<string>No Time</string>
+		</dict>
 		<key>bitchplz.jpg</key>
 		<dict>
 			<key>Equivalents</key>
