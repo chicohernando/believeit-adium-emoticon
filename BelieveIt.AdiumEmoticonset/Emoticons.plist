@@ -6,6 +6,15 @@
 	<integer>1</integer>
 	<key>Emoticons</key>
 	<dict>
+		<key>applaud.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react applaud</string>
+			</array>
+			<key>Name</key>
+			<string>Applaud</string>
+		</dict>
 		<key>approve.gif</key>
 		<dict>
 			<key>Equivalents</key>
