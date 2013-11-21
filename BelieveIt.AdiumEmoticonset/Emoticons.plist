@@ -24,6 +24,15 @@
 			<key>Name</key>
 			<string>Approve</string>
 		</dict>
+		<key>awwyeah.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react awwyeah</string>
+			</array>
+			<key>Name</key>
+			<string>Aww Yeah</string>
+		</dict>
 		<key>bitchwhat.gif</key>
 		<dict>
 			<key>Equivalents</key>
