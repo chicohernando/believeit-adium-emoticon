@@ -141,6 +141,15 @@
 			<key>Name</key>
 			<string>Thumbs Up</string>
 		</dict>
+		<key>yay.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react yay</string>
+			</array>
+			<key>Name</key>
+			<string>Yay</string>
+		</dict>
 	</dict>
 </dict>
 </plist>
