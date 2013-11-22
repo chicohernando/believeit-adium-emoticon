@@ -114,6 +114,15 @@
 			<key>Name</key>
 			<string>Nod</string>
 		</dict>
+		<key>nope.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react nope</string>
+			</array>
+			<key>Name</key>
+			<string>Nope</string>
+		</dict>
 		<key>notime.gif</key>
 		<dict>
 			<key>Equivalents</key>
