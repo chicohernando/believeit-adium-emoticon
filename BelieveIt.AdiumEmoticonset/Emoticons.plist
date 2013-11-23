@@ -159,6 +159,15 @@
 			<key>Name</key>
 			<string>No Time</string>
 		</dict>
+		<key>notouching.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react notouching</string>
+			</array>
+			<key>Name</key>
+			<string>No Touching</string>
+		</dict>
 		<key>bitchplz.jpg</key>
 		<dict>
 			<key>Equivalents</key>
