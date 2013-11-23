@@ -96,6 +96,15 @@
 			<key>Name</key>
 			<string>Lunchtime</string>
 		</dict>
+		<key>micdrop.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react micdrop</string>
+			</array>
+			<key>Name</key>
+			<string>Mic Drop</string>
+		</dict>
 		<key>mindblown.gif</key>
 		<dict>
 			<key>Equivalents</key>
