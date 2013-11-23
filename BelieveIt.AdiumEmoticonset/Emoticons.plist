@@ -87,6 +87,15 @@
 			<key>Name</key>
 			<string>Jimbo</string>
 		</dict>
+		<key>lunchtime.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react lunchtime</string>
+			</array>
+			<key>Name</key>
+			<string>Lunchtime</string>
+		</dict>
 		<key>mindblown.gif</key>
 		<dict>
 			<key>Equivalents</key>
