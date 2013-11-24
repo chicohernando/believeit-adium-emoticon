@@ -42,6 +42,15 @@
 			<key>Name</key>
 			<string>Bitch What</string>
 		</dict>
+		<key>boneralert.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react boneralert</string>
+			</array>
+			<key>Name</key>
+			<string>Boner Alert</string>
+		</dict>
 		<key>damn.gif</key>
 		<dict>
 			<key>Equivalents</key>
@@ -77,6 +86,33 @@
 			</array>
 			<key>Name</key>
 			<string>Hump</string>
+		</dict>
+		<key>jimbo.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react jimbo</string>
+			</array>
+			<key>Name</key>
+			<string>Jimbo</string>
+		</dict>
+		<key>lunchtime.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react lunchtime</string>
+			</array>
+			<key>Name</key>
+			<string>Lunchtime</string>
+		</dict>
+		<key>micdrop.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react micdrop</string>
+			</array>
+			<key>Name</key>
+			<string>Mic Drop</string>
 		</dict>
 		<key>mindblown.gif</key>
 		<dict>
@@ -131,6 +167,15 @@
 			</array>
 			<key>Name</key>
 			<string>No Time</string>
+		</dict>
+		<key>notouching.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react notouching</string>
+			</array>
+			<key>Name</key>
+			<string>No Touching</string>
 		</dict>
 		<key>bitchplz.jpg</key>
 		<dict>
