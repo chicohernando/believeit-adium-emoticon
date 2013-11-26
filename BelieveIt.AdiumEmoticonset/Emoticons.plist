@@ -33,6 +33,15 @@
 			<key>Name</key>
 			<string>Aww Yeah</string>
 		</dict>
+		<key>bitchplz.jpg</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react bitchplz</string>
+			</array>
+			<key>Name</key>
+			<string>Bitch Please</string>
+		</dict>
 		<key>bitchwhat.gif</key>
 		<dict>
 			<key>Equivalents</key>
@@ -177,14 +186,14 @@
 			<key>Name</key>
 			<string>No Touching</string>
 		</dict>
-		<key>bitchplz.jpg</key>
+		<key>rage.gif</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
-				<string>/react bitchplz</string>
+				<string>/react rage</string>
 			</array>
 			<key>Name</key>
-			<string>Bitch Please</string>
+			<string>Rage</string>
 		</dict>
 		<key>thumbsup.gif</key>
 		<dict>
