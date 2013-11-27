@@ -204,6 +204,15 @@
 			<key>Name</key>
 			<string>Thumbs Up</string>
 		</dict>
+		<key>wow.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react wow</string>
+			</array>
+			<key>Name</key>
+			<string>Wow</string>
+		</dict>
 		<key>yay.gif</key>
 		<dict>
 			<key>Equivalents</key>
