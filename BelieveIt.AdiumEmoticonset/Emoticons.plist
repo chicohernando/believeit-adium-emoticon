@@ -204,14 +204,14 @@
 			<key>Name</key>
 			<string>Thumbs Up</string>
 		</dict>
-		<key>wow.gif</key>
+		<key>what.gif</key>
 		<dict>
 			<key>Equivalents</key>
 			<array>
-				<string>/react wow</string>
+				<string>/react what</string>
 			</array>
 			<key>Name</key>
-			<string>Wow</string>
+			<string>What</string>
 		</dict>
 		<key>yay.gif</key>
 		<dict>
