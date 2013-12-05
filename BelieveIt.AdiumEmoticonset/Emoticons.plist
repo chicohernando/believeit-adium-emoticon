@@ -204,6 +204,15 @@
 			<key>Name</key>
 			<string>No Touching</string>
 		</dict>
+		<key>oh.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react oh</string>
+			</array>
+			<key>Name</key>
+			<string>Oh Face</string>
+		</dict>
 		<key>rage.gif</key>
 		<dict>
 			<key>Equivalents</key>
