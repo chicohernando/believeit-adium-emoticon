@@ -33,6 +33,15 @@
 			<key>Name</key>
 			<string>Aww Yeah</string>
 		</dict>
+		<key>BROOKLYN.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react BROOKLYN</string>
+			</array>
+			<key>Name</key>
+			<string>BROOKLYN</string>
+		</dict>
 		<key>bitchplz.jpg</key>
 		<dict>
 			<key>Equivalents</key>
