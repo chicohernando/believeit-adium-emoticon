@@ -96,6 +96,15 @@
 			<key>Name</key>
 			<string>Drop It</string>
 		</dict>
+		<key>fail.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react fail</string>
+			</array>
+			<key>Name</key>
+			<string>Fail</string>
+		</dict>
 		<key>fif.gif</key>
 		<dict>
 			<key>Equivalents</key>
@@ -204,6 +213,15 @@
 			<key>Name</key>
 			<string>No Touching</string>
 		</dict>
+		<key>please.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react please</string>
+			</array>
+			<key>Name</key>
+			<string>Please</string>
+		</dict>
 		<key>rage.gif</key>
 		<dict>
 			<key>Equivalents</key>
@@ -213,6 +231,15 @@
 			<key>Name</key>
 			<string>Rage</string>
 		</dict>
+		<key>rawwwr.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react rawwwr</string>
+			</array>
+			<key>Name</key>
+			<string>Rawwwr</string>
+		</dict>
 		<key>shame.gif</key>
 		<dict>
 			<key>Equivalents</key>
@@ -221,6 +248,15 @@
 			</array>
 			<key>Name</key>
 			<string>Shame</string>
+		</dict>
+		<key>spudnik.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react spudnik</string>
+			</array>
+			<key>Name</key>
+			<string>Spudnik</string>
 		</dict>
 		<key>thumbsup.gif</key>
 		<dict>
