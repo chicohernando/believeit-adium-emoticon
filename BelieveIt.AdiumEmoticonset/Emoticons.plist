@@ -213,6 +213,15 @@
 			<key>Name</key>
 			<string>No Time</string>
 		</dict>
+		<key>notmad.jpg</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react notmad</string>
+			</array>
+			<key>Name</key>
+			<string>Not Mad</string>
+		</dict>
 		<key>notouching.gif</key>
 		<dict>
 			<key>Equivalents</key>
