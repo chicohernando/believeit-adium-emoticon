@@ -78,6 +78,15 @@
 			<key>Name</key>
 			<string>Celebrate</string>
 		</dict>
+		<key>chuck.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react chuck</string>
+			</array>
+			<key>Name</key>
+			<string>Chuck</string>
+		</dict>
 		<key>damn.gif</key>
 		<dict>
 			<key>Equivalents</key>
@@ -149,6 +158,15 @@
 			</array>
 			<key>Name</key>
 			<string>Jimbo</string>
+		</dict>
+		<key>lizarding.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react lizarding</string>
+			</array>
+			<key>Name</key>
+			<string>Lizarding</string>
 		</dict>
 		<key>lunchtime.gif</key>
 		<dict>
@@ -285,6 +303,15 @@
 			<key>Name</key>
 			<string>Shame</string>
 		</dict>
+		<key>snoopy.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react snoopy</string>
+			</array>
+			<key>Name</key>
+			<string>Snoopy</string>
+		</dict>
 		<key>spudnik.gif</key>
 		<dict>
 			<key>Equivalents</key>
@@ -311,6 +338,15 @@
 			</array>
 			<key>Name</key>
 			<string>What</string>
+		</dict>
+		<key>wink.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react wink</string>
+			</array>
+			<key>Name</key>
+			<string>Wink</string>
 		</dict>
 		<key>yay.gif</key>
 		<dict>
