@@ -132,6 +132,15 @@
 			<key>Name</key>
 			<string>Drunk</string>
 		</dict>
+		<key>excited.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react excited</string>
+			</array>
+			<key>Name</key>
+			<string>Excited</string>
+		</dict>
 		<key>fail.gif</key>
 		<dict>
 			<key>Equivalents</key>
