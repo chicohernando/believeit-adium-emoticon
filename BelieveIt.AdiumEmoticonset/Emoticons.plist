@@ -339,6 +339,15 @@
 			<key>Name</key>
 			<string>Shhh</string>
 		</dict>
+		<key>smh.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react smh</string>
+			</array>
+			<key>Name</key>
+			<string>SMH</string>
+		</dict>
 		<key>snoopy.gif</key>
 		<dict>
 			<key>Equivalents</key>
