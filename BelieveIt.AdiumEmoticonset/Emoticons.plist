@@ -321,6 +321,15 @@
 			<key>Name</key>
 			<string>Rawwwr</string>
 		</dict>
+		<key>relaxinallcool.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react relaxinallcool</string>
+			</array>
+			<key>Name</key>
+			<string>Relaxin All Cool</string>
+		</dict>
 		<key>shame.gif</key>
 		<dict>
 			<key>Equivalents</key>
