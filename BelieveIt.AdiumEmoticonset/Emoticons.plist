@@ -411,6 +411,15 @@
 			<key>Name</key>
 			<string>Yay</string>
 		</dict>
+		<key>yw.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react yw</string>
+			</array>
+			<key>Name</key>
+			<string>You're Welcome</string>
+		</dict>
 	</dict>
 </dict>
 </plist>
