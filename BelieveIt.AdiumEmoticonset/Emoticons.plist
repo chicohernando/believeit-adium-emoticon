@@ -114,6 +114,15 @@
 			<key>Name</key>
 			<string>Dayum</string>
 		</dict>
+		<key>doit.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react doit</string>
+			</array>
+			<key>Name</key>
+			<string>Do It</string>
+		</dict>
 		<key>dropit.gif</key>
 		<dict>
 			<key>Equivalents</key>
