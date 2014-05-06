@@ -375,15 +375,24 @@
 			<key>Name</key>
 			<string>Relaxin All Cool</string>
 		</dict>
-                <key>science.gif</key>
-                <dict>
-                        <key>Equivalents</key>
-                        <array>
-                                <string>/react science</string>
-                        </array>
-                        <key>Name</key>
-                        <string>Science</string>
-                </dict>
+    <key>science.gif</key>
+    <dict>
+      <key>Equivalents</key>
+      <array>
+      	<string>/react science</string>
+      </array>
+      <key>Name</key>
+      <string>Science</string>
+    </dict>
+    <key>shakeyatailfeather.gif</key>
+    <dict>
+      <key>Equivalents</key>
+      <array>
+      	<string>/react shakeyatailfeather</string>
+      </array>
+      <key>Name</key>
+      <string>Shake Ya Tail Feather</string>
+    </dict>
 		<key>shame.gif</key>
 		<dict>
 			<key>Equivalents</key>
