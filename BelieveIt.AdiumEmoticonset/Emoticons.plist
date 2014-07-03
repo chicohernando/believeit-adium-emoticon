@@ -132,6 +132,15 @@
 			<key>Name</key>
 			<string>Dayum</string>
 		</dict>
+		<key>derp.jpg</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:derp:</string>
+			</array>
+			<key>Name</key>
+			<string>Derp</string>
+		</dict>
 		<key>doit.gif</key>
 		<dict>
 			<key>Equivalents</key>
@@ -167,6 +176,15 @@
 			</array>
 			<key>Name</key>
 			<string>Drunk</string>
+		</dict>
+		<key>eric.jpg</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:eric:</string>
+			</array>
+			<key>Name</key>
+			<string>Eric</string>
 		</dict>
 		<key>excited.gif</key>
 		<dict>
@@ -375,15 +393,24 @@
 			<key>Name</key>
 			<string>Relaxin All Cool</string>
 		</dict>
-    		<key>science.gif</key>
-    		<dict>
-      			<key>Equivalents</key>
-      			<array>
-      				<string>/react science</string>
-      			</array>
+		<key>rza.jpg</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:rza:</string>
+			</array>
 			<key>Name</key>
-			<string>Science</string>
+			<string>RZA</string>
 		</dict>
+		<key>science.gif</key>
+		<dict>
+    		<key>Equivalents</key>
+    		<array>
+    			<string>/react science</string>
+    		</array>
+    		<key>Name</key>
+    		<string>Science</string>
+    	</dict>
 		<key>shakeyatailfeather.gif</key>
 		<dict>
 		      <key>Equivalents</key>
