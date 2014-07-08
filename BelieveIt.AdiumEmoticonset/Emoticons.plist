@@ -69,6 +69,15 @@
 			<key>Name</key>
 			<string>Bitch What</string>
 		</dict>
+		<key>blank.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react blank</string>
+			</array>
+			<key>Name</key>
+			<string>Blank</string>
+		</dict>
 		<key>boneralert.gif</key>
 		<dict>
 			<key>Equivalents</key>
