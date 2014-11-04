@@ -366,6 +366,15 @@
 			<key>Name</key>
 			<string>Please</string>
 		</dict>
+		<key>punchies.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react punchies</string>
+			</array>
+			<key>Name</key>
+			<string>Punchies</string>
+		</dict>
 		<key>oh.gif</key>
 		<dict>
 			<key>Equivalents</key>
