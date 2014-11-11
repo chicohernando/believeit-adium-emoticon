@@ -474,6 +474,15 @@
 			<key>Name</key>
 			<string>Spudnik</string>
 		</dict>
+		<key>tellmemore.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react tellmemore</string>
+			</array>
+			<key>Name</key>
+			<string>Tell Me More</string>
+		</dict>
 		<key>thumbsup.gif</key>
 		<dict>
 			<key>Equivalents</key>
@@ -500,6 +509,15 @@
 			</array>
 			<key>Name</key>
 			<string>What</string>
+		</dict>
+		<key>whine.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react whine</string>
+			</array>
+			<key>Name</key>
+			<string>Whine</string>
 		</dict>
 		<key>wink.gif</key>
 		<dict>
