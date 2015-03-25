@@ -141,6 +141,15 @@
 			<key>Name</key>
 			<string>Dayum</string>
 		</dict>
+		<key>dead.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react dead</string>
+			</array>
+			<key>Name</key>
+			<string>Dead</string>
+		</dict>
 		<key>derp.jpg</key>
 		<dict>
 			<key>Equivalents</key>
