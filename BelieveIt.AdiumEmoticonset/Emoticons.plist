@@ -555,6 +555,15 @@
 			<key>Name</key>
 			<string>Yay</string>
 		</dict>
+		<key>yo.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>/react yo</string>
+			</array>
+			<key>Name</key>
+			<string>Yo</string>
+		</dict>
 		<key>yw.gif</key>
 		<dict>
 			<key>Equivalents</key>
